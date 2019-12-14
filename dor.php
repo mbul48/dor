@@ -7,7 +7,7 @@ _  /_/ / / /_/ /_  _, _/
 /_____/  \____/ /_/ |_|  
                          ");
 output_clean(" Dor Telkomsel CLI Version");
-output_clean(" v.1.6");
+output_clean(" v.1.7");
 output_clean(" © fznxn - 2019");
 output_clean("_______________________________ _ _ _ _ _ _");
 output_clean("");
